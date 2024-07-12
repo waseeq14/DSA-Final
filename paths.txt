@@ -1,0 +1,12 @@
+Islamabad Jhelum 100 Daewoo 300
+Jhelum Gujrat 60 SkyWays 200 Daewoo 220
+Gujrat Lahore 100 Daewoo 500
+Lahore Multan 100 Daewoo 300 AliTravels 280
+Multan Sukkur 200 Daewoo 500 BilalTravels 450
+Sukkur Karachi 300 SkyWays 400 Daewo 380
+Islamabad Lahore 300 Daewoo 500
+Lahore Faislabad 150 SkyWays 400
+Faislabad Multan 100 Daewoo 200 AliTravels 180
+Multan Sukkur 250 Daewoo 300 SkyWays 280
+Sukkur Hyderabad 100 Daewoo 200
+Hyderabad Karachi 120 AliTravels 120 Daewoo 150
